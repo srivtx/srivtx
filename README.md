@@ -1,5 +1,5 @@
 ## Hi  : ) 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Open+Source+Enthusias]
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Open+Source+Enthusias)
 <!--
 **srivtx/srivtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
