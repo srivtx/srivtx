@@ -1,4 +1,4 @@
-<img src="profile.jpg" width="150"/>
+
 
 191 "..."
 <!--
