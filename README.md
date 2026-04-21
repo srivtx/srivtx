@@ -1,15 +1,15 @@
-
+#191
 
 Sribatsha Dash
 22 · polymath · first-principles thinker
 tinkers with hardware
 
-— Backend Engineer Intern at GoQuant
+— ex engineer GoQuant
 
 — built snip (media terminal / media supercharger)
 — built tomat0 css (simplified styling language)
 — built quik (real-time code sharing)
-— built shaderlabs
+— built shaderlabs (shaders becomes easy ) 
 — built nnn (local coding agent for small LLMs)
 
 — contributed to wevm/vim (user operation hash fix, co-authored)
