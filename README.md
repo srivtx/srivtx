@@ -1,18 +1,17 @@
 
 
-#191 "..." 
-Sribatsha Dash 
-22 , polymath , first principle thinker 
-tinkers with hardware 
+Sribatsha Dash
+22 · polymath · first-principles thinker
+tinkers with hardware
 
--- worked at GoQuant 
--- created snip ( a media termnial media supercharger) 
--- created tomat0 css ( write css less and simple ) 
--- built quik (which is similar to code share ) 
--- contributed to wevm/vim fix: user operation hash calculation coauthored 
--- contributed to wevm/vocs fix(vite): resolve tailwind hmr for mdx files#365
--- created shaderlabs 
--- created nnn (local coding agent for small llm models) 
--- created and integrated a Zettelkasten language server extension into Zed Editor with LSP support (merged PR #4337)
+— Backend Engineer Intern at GoQuant
 
+— built snip (media terminal / media supercharger)
+— built tomat0 css (simplified styling language)
+— built quik (real-time code sharing)
+— built shaderlabs
+— built nnn (local coding agent for small LLMs)
 
+— contributed to wevm/vim (user operation hash fix, co-authored)
+— contributed to wevm/vocs (vite: tailwind HMR for MDX, #365)
+— built + integrated Zettelkasten language server into Zed (LSP, PR #4337 merged)
