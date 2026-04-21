@@ -3,7 +3,7 @@
 Sribatsha Dash
 22 · polymath · first-principles thinker · tinkers with hardware
 
-* Backend Engineer Intern at GoQuant
+* ex backend engineer at GoQuant
 
 * built snip (media terminal / media supercharger)
 
