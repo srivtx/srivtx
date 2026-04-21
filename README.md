@@ -1,6 +1,5 @@
 
-##### Sribatsha Dash
-#### 22 · polymath · first-principles thinker · tinkers with hardware
+##### Sribatsha Dash   , polymath ,first-principles thinker ,tinkers with hardware
 
 * ex backend engineer at GoQuant
 
