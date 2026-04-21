@@ -5,7 +5,7 @@
 
 * built snip (media terminal / media supercharger)
 
-* built tomat0 css (simplified styling language)
+* built tomato css (simplified styling language)
 
 * built quik (real-time code sharing)
 
