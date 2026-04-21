@@ -1,17 +1,18 @@
 
 
 #191 "..." 
-<!--
-**srivtx/srivtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sribatsha Dash 
+22 , polymath , first principle thinker 
+tinkers with hardware 
 
-Here are some ideas to get you started:
+-- worked at GoQuant 
+-- created snip ( a media termnial media supercharger) 
+-- created tomat0 css ( write css less and simple ) 
+-- built quik (which is similar to code share ) 
+-- contributed to wevm/vim fix: user operation hash calculation coauthored 
+-- contributed to wevm/vocs fix(vite): resolve tailwind hmr for mdx files#365
+-- created shaderlabs 
+-- created nnn (local coding agent for small llm models) 
+-- created and integrated a Zettelkasten language server extension into Zed Editor with LSP support (merged PR #4337)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
