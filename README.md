@@ -1,171 +1,59 @@
-<img src="https://raw.githubusercontent.com/srivtx/srivtx/main/banner.png" alt="srivtx" width="100%" />
+Sribatsha Dash · @srivtx · backend & systems engineer, polymath, first-principles thinker
 
-<div align="center">
+I build software the way other people build furniture — by hand, on a bench, with the joints visible. Most of my work sits at the seam between systems software and the interface.
 
-**`Sribatsha Dash`** · `srivtx` · backend & systems engineer, polymath, first-principles thinker
+**`solana-indexer`** · [github.com/srivtx/solana-indexer-skill](https://github.com/srivtx/solana-indexer-skill) — the first skill that teaches you how to build a Solana indexer from scratch. Fills the `indexing-geyser` gap in the AI Kit Ideas table. 9 docs, 3 runnable examples in TS + Rust. · [PR #49](https://github.com/solanabr/skill-bounty/pull/49)
 
-I build software the way other people build furniture — by hand, on a bench, with the joints visible.
+**`mycelium`** · [github.com/srivtx/mycelium](https://github.com/srivtx/mycelium) — a substrate for writing Solana programs in Zig. Comptime over runtime.
 
-Most of my work sits at the seam between systems software and the interface. Rust binaries that serve markdown. Zig frameworks for Solana. Language servers. Agent loops. CSS preprocessors.
+**`nnn`** · [github.com/srivtx/nnn](https://github.com/srivtx/nnn) — local coding agents that run on a 7B Qwen, no API key, no cloud. Five agents on one local model.
 
-The recurring question is the same one: **what does this look like if I stop reaching for a framework?**
+**`updated-resume-srivtx`** · [github.com/srivtx/updated-resume-srivtx](https://github.com/srivtx/updated-resume-srivtx) — the portfolio at [srivtx.xyz](https://srivtx.xyz). Hand-built, no Tailwind, lab-journal.
 
-</div>
+**`snip`** · [github.com/srivtx/snip](https://github.com/srivtx/snip) — terminal utility for code snippets and social cards. `@srivtx/snip` on npm.
 
----
+**`tomato-css`** · [github.com/srivtx/tomato-css](https://github.com/srivtx/tomato-css) — a CSS preprocessor where you write less CSS. `body: pad 4, bg cream` is the whole idea.
 
-### What I'm working on right now
+**`shader-labs`** · [github.com/srivtx/shader-labs](https://github.com/srivtx/shader-labs) — drop-in WebGL shaders, single-file export, no build step.
 
-- **`solana-superchargers`** — production-grade Claude Code / Codex skills for Solana builders. The first one, **`solana-indexer`**, fills the `indexing-geyser` gap in the Solana AI Kit Ideas table and is currently entered in the Superteam Brasil bounty (PR #49).
-- **`updated-resume-srivtx`** — the portfolio you're looking at. Hand-built, no Tailwind, lab-journal aesthetic. `srivtx.xyz`.
-- **`mycelium`** — a systems-oriented Solana program framework in Zig. Comptime over runtime, visibility over convenience.
-- **`nnn`** — local coding agents that run on a 7B Qwen, no API key, no cloud.
+**`tdc-matchmaker-2`** · [github.com/srivtx/tdc-matchmaker-2](https://github.com/srivtx/tdc-matchmaker-2) — matchmaker CRM redesigned as a private-banking brief. Three-column compare canvas, 10-dimension matching.
 
----
+**`sortie`** · [github.com/srivtx/sortie](https://github.com/srivtx/sortie) — semantic execution debugger for Solana. Reconstructs CPI trees, decodes failures, profiles compute. MCP server for AI agents.
 
-### Featured projects
+**`img-to-3d`** · [github.com/srivtx/img-to-3d](https://github.com/srivtx/img-to-3d) — photo in, 3D model out. FastAPI + InstantMesh.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**`neuro-2e`** · [github.com/srivtx/neuro-2e](https://github.com/srivtx/neuro-2e) — a cognitive execution system for the 2e monolithic systems thinker. Holds state across contexts, surfaces the thread you lost.
 
-**[`solana-indexer`](https://github.com/srivtx/solana-indexer-skill)** · the missing piece of the Solana AI Kit
+**`lsp-server`** · [github.com/srivtx/lsp-server](https://github.com/srivtx/lsp-server) — lexer, parser, AST, analyzer, symbols, interpreter, each in its own Rust file. End-to-end language tooling.
 
-The first skill that teaches you how to **build** a Solana indexer from scratch. Geyser gRPC, backfill, Postgres schemas, real-time streaming, production ops. 9 reference docs, 3 runnable examples in TypeScript and Rust (`tsc` + `cargo` clean), 2 agents, 2 commands.
+**`serve-md`** · [github.com/srivtx/serve-md](https://github.com/srivtx/serve-md) — `cd` into a folder, type one command, get a docs site. Faster docsify alternative. ~2MB Rust binary.
 
-```bash
-curl -fsSL https://raw.githubusercontent.com/srivtx/solana-indexer-skill/main/install.sh | bash
-```
+**`fear-greed-sentiment-v2`** · [github.com/srivtx/fear-greed-sentiment-v2](https://github.com/srivtx/fear-greed-sentiment-v2) — fear and greed sentiment engine by analysing posts from various public sources.
 
-`[Python · Rust · TypeScript]`
+**`lockr`** · [github.com/srivtx/lockr](https://github.com/srivtx/lockr) — escrow for Indian freelancers, fiat in, USDC out. 3-second settlement, $0.001 fee.
 
-</td>
-<td width="50%" valign="top">
+**`the-last-bit-rsol`** · [github.com/srivtx/the-last-bit-rsol](https://github.com/srivtx/the-last-bit-rsol) — the last projects hand-coded in Rust and Solana.
 
-**[`updated-resume-srivtx`](https://github.com/srivtx/updated-resume-srivtx)** · the portfolio
+**`solana-superchargers`** · [github.com/srivtx/solana-superchargers](https://github.com/srivtx/solana-superchargers) — production-grade Claude Code / Codex skills for Solana builders. Extends the AI Kit.
 
-Lab-journal portfolio, hand-built with Next.js. No Tailwind. Saira + Instrument Serif + JetBrains Mono. Sits at `srivtx.xyz`. The `install` skill also lives here.
+**`supercharger-opencode`** · [github.com/srivtx/supercharger-opencode](https://github.com/srivtx/supercharger-opencode) — superchargers for your LLMs.
 
-`[TypeScript · Next.js]`
+**`ai-miden`** · [github.com/srivtx/ai-miden](https://github.com/srivtx/ai-miden) — building AI from scratch.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**`parsers-sol`** · [github.com/srivtx/parsers-sol](https://github.com/srivtx/parsers-sol) — parser codes / normalizations.
 
-**[`mycelium`](https://github.com/srivtx/mycelium)** · a Zig framework for Solana
+**`vamm-capstone`** · [github.com/srivtx/vamm-capstone](https://github.com/srivtx/vamm-capstone) — an AMM that breathes with the market.
 
-`A comptime layer that knows the SBPFv3 ABI and stays out of the way at runtime. A full PDA vault — state, three instructions, every edge case — fits in under a hundred lines of Zig.`
-
-A substrate for writing Solana programs in Zig. Visibility over convenience.
-
-`[Zig]`
-
-</td>
-<td width="50%" valign="top">
-
-**[`nnn`](https://github.com/srivtx/nnn)** · local coding agents
-
-`Five agents on one local model. Architect plans, developer writes, bugfixer runs the code, researcher reads the workspace, websearcher hits the docs.`
-
-7B Qwen, no API key, no cloud. The agents share a scratch directory. They pass files, not messages.
-
-`[Python]`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[`snip`](https://github.com/srivtx/snip)** · terminal utility tool
-
-Generate code snippets and social cards from the terminal. Bun-fast, runs locally, no API calls. Published as `@srivtx/snip`.
-
-`[TypeScript]`
-
-</td>
-<td width="50%" valign="top">
-
-**[`tomato-css`](https://github.com/srivtx/tomato-css)** · a CSS preprocessor
-
-`The human-friendly CSS preprocessor where you write less CSS.`
-
-`body: pad 4, bg cream` is the whole idea. Ships with a Vite plugin as `@srivtx/tomato-css`.
-
-`[JavaScript]`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[`shader-labs`](https://github.com/srivtx/shader-labs)** · drop-in WebGL shaders
-
-Six-plus shaders, single-file export, no build step. Designed to be copy-pasted into other people's projects, not adopted as a framework.
-
-`[JavaScript · WebGL]`
-
-</td>
-<td width="50%" valign="top">
-
-**[`tdc-matchmaker-2`](https://github.com/srivtx/tdc-matchmaker-2)** · matchmaker CRM
-
-`Three-column compare canvas, AI-drafted composer where the AI's job is bounded to one sentence, a 10-dimension weighted matching engine.`
-
-A matchmaker's CRM redesigned as a private-banking brief. The matching logic is reused from v1; the design system, layout, and most components are new.
-
-`[TypeScript]`
-
-</td>
-</tr>
-</table>
+**`skill-bounty`** · [github.com/srivtx/skill-bounty](https://github.com/srivtx/skill-bounty) — Submit your novel skills as PR.
 
 ---
 
-### Contributed upstream
+Contributed upstream:
 
-- **[`wevm/viem`](https://github.com/wevm/viem)** — TypeScript Interface for Ethereum (forked at `srivtx/wevm-viem`)
-- **[`wevm/vim`](https://github.com/wevm/vim)** — user-operation hash fix (co-authored)
-- **[`wevm/vocs`](https://github.com/wevm/vocs)** — Vite + Tailwind HMR for MDX, [#365](https://github.com/wevm/vocs/pull/365)
-- **[`zed-industries/zed`](https://github.com/zed-industries/zed)** — Zettelkasten language server, [PR #4337](https://github.com/zed-industries/zed/pull/4337) (merged)
-
----
-
-### Tech I reach for
-
-<div align="center">
-
-`TypeScript` · `Rust` · `Python` · `Zig` · `Go` · `Solana` · `Postgres` · `SQLite` · `Raycast` · `Linear` · `Vercel` · `Cloudflare` · `Neovim`
-
-</div>
+- [`wevm/vim`](https://github.com/wevm/vim) — user-operation hash fix (co-authored)
+- [`wevm/vocs`](https://github.com/wevm/vocs) — Vite + Tailwind HMR for MDX, [#365](https://github.com/wevm/vocs/pull/365)
+- [`zed-industries/zed`](https://github.com/zed-industries/zed) — Zettelkasten language server, [PR #4337](https://github.com/zed-industries/zed/pull/4337) (merged)
 
 ---
 
-### GitHub stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=srivtx&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=srivtx&theme=transparent&hide_border=true" alt="Streak stats" />
-<br />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivtx&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
-### Where to find me
-
-<div align="center">
-
-[**srivtx.xyz**](https://srivtx.xyz) · portfolio
-&nbsp;·&nbsp;
-[**@srivtx**](https://x.com/srivtx) · X
-&nbsp;·&nbsp;
-[**LinkedIn**](https://www.linkedin.com/in/sribatsha-dash-bb3327241/) · in/sribatsha-dash
-
-</div>
-
----
-
-<sub>built by hand. no frameworks reached for.</sub>
+[srivtx.xyz](https://srivtx.xyz) · [@srivtx](https://x.com/srivtx) · [LinkedIn](https://www.linkedin.com/in/sribatsha-dash-bb3327241/)
