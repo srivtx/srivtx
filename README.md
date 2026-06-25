@@ -1,6 +1,7 @@
-Sribatsha Dash · @srivtx · backend & systems engineer, polymath, first-principles thinker
+Sribatsha Dash · @srivtx 
+polymath, first-principles thinker
 
-I build software the way other people build furniture — by hand, on a bench, with the joints visible. Most of my work sits at the seam between systems software and the interface.
+I build stuff.
 
 ### Solana
 
